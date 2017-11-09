@@ -29,6 +29,15 @@
         <servlet-name>sessiontest</servlet-name>
         <url-pattern>/session</url-pattern>
     </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>SessionCalculator</servlet-name>
+        <servlet-class>kz.kaznitu.su.SessionCalculator</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SessionCalculator</servlet-name>
+        <url-pattern>/sessioncalculator</url-pattern>
+    </servlet-mapping>
 
     <servlet>
         <servlet-name>calculator</servlet-name>
