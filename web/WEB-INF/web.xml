@@ -36,7 +36,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>SessionCalculator</servlet-name>
-        <url-pattern>/sessioncalculator</url-pattern>
+        <url-pattern>/sessioncalcul</url-pattern>
     </servlet-mapping>
 
     <servlet>
