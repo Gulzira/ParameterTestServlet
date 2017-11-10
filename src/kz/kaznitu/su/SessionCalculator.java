@@ -43,6 +43,7 @@ public class SessionCalculator extends HttpServlet {
                 oper = (number1 - number2) + "";
                 operr="-";
                 break;
+
             case "mul":
                 oper = (number1 * number2) + "";
                 operr="*";
